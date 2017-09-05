@@ -41,7 +41,7 @@
     "should": "^4.4.1",
     "split": "^0.3.1",
     "underscore": "^1.7.0",
-    "walipini-lp-content": "git+https://github.com/tombenke/walipini-lp-content.git#v1.0.2"
+    "walipini-lp-content": "git+https://github.com/tombenke/walipini-lp-content.git#v1.0.3"
   },
   "devDependencies": {
     "gulp": "^3.8.10",
