@@ -1,7 +1,7 @@
 {
   "name": "walipini-lp-server",
   "description": "Web server for the landing page of the walipini project",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [
     "web",
     "server",
